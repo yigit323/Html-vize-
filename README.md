@@ -1,1 +1,1 @@
-# Html-vize-
+Hocam verileri çektim ama tablo'da sıkıntı oluştu.
